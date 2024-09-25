@@ -1,2 +1,4 @@
 # students-database
-A project for freeCodeCamp.com.
+Disclaimer: This is a project for freeCodeCamp.com.
+
+Create a database on the basis of two csv-files creating and using a bash-script.
